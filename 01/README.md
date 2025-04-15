@@ -8,6 +8,10 @@ Class-01
 
 1) Class / teacher introduction
 
+https://www.youtube.com/watch?v=yfNFbE0ahi0
+
+https://www.youtube.com/watch?v=ci5K23ZwA20&list=PLWCQ9pa5DxHeZo9tGk2qxj3jl_mpFeYuG&index=2
+
 2) Student introductions
 
 	- Name
