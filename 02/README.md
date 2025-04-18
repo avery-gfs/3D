@@ -24,4 +24,4 @@ https://www.tinkercad.com/learn/overview/O8XV0X1IRXTXGIH?collectionId=undefined&
 - As much detail as possible
 - Make it safe!
 - Add people for scale
-- Will share at the end of two days
+- Will share with class

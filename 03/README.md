@@ -22,4 +22,4 @@ https://www.tinkercad.com/blog/22-tips-for-working-faster-in-tinkercad
 - As much detail as possible
 - Make it safe!
 - Add people for scale
-- Will share at the end of two days
+- Will share with class
