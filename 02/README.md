@@ -12,7 +12,9 @@ Class-02
 
 3) Class expectations
 
-4) Tutorial questions
+4) Basic tutorial
+
+https://www.tinkercad.com/learn/overview/O8XV0X1IRXTXGIH?collectionId=undefined&type=TKCD
 
 5) Design a playground
 

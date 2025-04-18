@@ -10,7 +10,9 @@ Class-03
 
 2) Class expectations
 
-3) Advanced tutorial
+3) Advanced tips article
+
+https://www.tinkercad.com/blog/22-tips-for-working-faster-in-tinkercad
 
 4) Design a playground
 
