@@ -1,3 +1,5 @@
+## Class Expectations:
+
 1) Respectful and appropriate conversations
 
 2) Use computers for classwork
