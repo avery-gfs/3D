@@ -4,7 +4,7 @@ Avery Nortonsmith
 
 Class-03
 
-1) Do now: make a top hat
+1) Do now: make a hat
 
 ![hat](hat.png)
 
