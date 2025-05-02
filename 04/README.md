@@ -10,6 +10,14 @@ Class-04
 
 2) Slicer demo
 
+- Adjustments
+- Volume vs print time
+- Supports
+- Adhesion
+- Fill
+- Resolution
+- Effective design for printing
+
 3) Playground showcase
 
 ![slide](slide.png)
