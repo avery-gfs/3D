@@ -13,6 +13,7 @@ Class-05
     you discover that the handle won't fit its hole. You consider making the hole larger
     but you know that if the hole is too large then the handle will fall out of the top
     when you try to spin it.
+    
     Brainstorm possible methods you could use when designing your next prototype top to
     ensure that the top's handle fits snugly within the body of the top.
 
