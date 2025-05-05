@@ -12,9 +12,9 @@ to print the body and handle of the top as separate pieces.
 
 You print a prototype of your top, with a 4mm diameter handle and a body with a 4mm
 diameter cylindrical hole for the handle to go in. When you go to assemble the top,
-you discover that the handle won't fit its hole. You consider making the hole larger
-but you know that if the hole is too large then the handle will fall out of the top
-when you try to spin it.
+you discover that the handle won't fit its hole. You consider making the handle smaller
+but you know that if the handle is too small then it will come out of the body of the 
+top when you try to spin it.
 
 Brainstorm possible methods you could use when designing your next prototype top to
 ensure that the top's handle fits snugly within the body of the top.
